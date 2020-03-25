@@ -1,0 +1,1 @@
+﻿Add-NTFSAccess –Path "C:\Users\ygrosjean\Desktop\Nouveau dossier" –Account "FR_IT_SACRED" –AccessRights "fullcontrol"
